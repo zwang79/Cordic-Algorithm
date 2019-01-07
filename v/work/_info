@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/modelsim_test/v
+T_opt
+!s110 1546888008
+VzX:_g>^CRYYH2LMWCN@E`3
+04 4 4 work test fast 0
+=1-144f8a746602-5c33a347-c5-3554
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.4;61
+R0
+T_opt1
+!s110 1546892366
+Vm]DgO8Z^4ci>B8SOjXh_10
+Z3 04 9 4 work testbench fast 0
+=1-144f8a746602-5c33b44e-156-740
+R1
+n@_opt1
+R2
+R0
+T_opt2
+!s110 1546894096
+V<K0]<iZCS4k@_T6U4aUDC1
+R3
+=1-144f8a746602-5c33bb10-1fa-3b08
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt2
+R2
+vControl
+!s110 1546894083
+!i10b 1
+!s100 6^HK?YYdRJNdWeQ0U`9=M1
+Il0kjI4maV?B7OD=;[LZ@I2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1546894069
+8Control.v
+FControl.v
+L0 1
+Z5 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1546894083.929000
+!s107 Control.v|
+!s90 -reportprogress|300|Control.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@control
+vCordic
+!s110 1546893884
+!i10b 1
+!s100 ggRL@NVj6SUVAVkP@X=?W0
+IEkgZC]BRPh?nOJoY1T>H]2
+R4
+R0
+w1546893862
+8Cordic.v
+FCordic.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1546893884.807000
+!s107 Cordic.v|
+!s90 -reportprogress|300|Cordic.v|
+!i113 0
+R6
+n@cordic
+vtest
+!s110 1546887995
+!i10b 1
+!s100 CKV<a1n2`jlTN@FDKUG@D2
+Izd0CSj:AedzfTFL2LgCn81
+R4
+R0
+w1546887992
+8test.v
+Ftest.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1546887995.136000
+!s107 test.v|
+!s90 -reportprogress|300|test.v|
+!i113 0
+R6
+vtestbench
+!s110 1546893117
+!i10b 1
+!s100 CG?24fT4TW_EN:IIh2@`T2
+I[ai^^LAS:zgAVAn`6nf;^3
+R4
+R0
+w1546893097
+8testbench.v
+Ftestbench.v
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1546893117.135000
+!s107 testbench.v|
+!s90 -reportprogress|300|testbench.v|
+!i113 0
+R6
+vTop
+!s110 1546892325
+!i10b 1
+!s100 E8V>4b[OWBG=Win;=?^Ki3
+IdjbEiKWUdLZKT2Tkz?LO71
+R4
+R0
+w1546891597
+8Top.v
+FTop.v
+L0 5
+R5
+r1
+!s85 0
+31
+!s108 1546892325.414000
+!s107 Control.v|Cordic.v|Top.v|
+!s90 -reportprogress|300|Top.v|
+!i113 0
+R6
+n@top
